@@ -1,4 +1,4 @@
-# server
+# server ( NewsUserApp )
 
 ## Comenzando 🚀
 
@@ -14,7 +14,7 @@ La base de datos utilizada es Mongodb y su soporte en Mongo Atlas. Consta de dos
 
 ## Development server
 
-Ejecutar con  `npm run start` para desarrollo.  `http://localhost:4200/`. La aplicación se recargará automaticamente al actualizar el código fuente.
+Ejecutar con  `npm run start` para desarrollo. Se ejecutará en  `http://localhost:3000/`. La aplicación se recargará automaticamente al actualizar el código fuente.
 
 ## Construido con 🛠️
 
